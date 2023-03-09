@@ -28,7 +28,7 @@
 
 - 💬 Ask me about **Java, PHP, Node.js**
 
-- 📫 How to reach me tshorafa57@gmail.com(mailto:tshorafa57@gmail.com)
+- 📫 How to reach me tshorafa57@gmail.com
 
 - 📄 Know about my experiences my [CV]
 
