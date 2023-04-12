@@ -48,19 +48,7 @@
 <img src="https://th.bing.com/th/id/R.202b73754731bf9cae390c5e38213ec1?rik=aPAp%2f8ElghwhCQ&pid=ImgRaw&r=0" alt="top-10-reasons–to-use-spring-framework" class=" nofocus" tabindex="0" aria-label="top-10-reasons–to-use-spring-framework" data-bm="367" width="250" height="190">
 </a>
 
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bsaqqa&count_private=true" alt="bsaqqa" /></a> </p>
-
-[comment]: <> (### Blog posts)
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/taha-al-shorafa-82676018a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taha" height="30" width="40" /></a>
 </p>
-
-
-
-
