@@ -26,7 +26,7 @@
 
 - 👨‍💻 All of my projects are available at soon// your site
 
-- 💬 Ask me about **Java, PHP, Node.js,Software Design,Spring Boot**
+- 💬 Ask me about **Java, PHP, Node.js,Software Design,Spring Boot,Java JUnit Test **
 
 - 📫 How to reach me tshorafa57@gmail.com
 
