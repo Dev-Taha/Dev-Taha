@@ -24,8 +24,7 @@
 
 [comment]: <> (- 🤝 I’m looking for help with **Spring Boot**)
 
-- 👨‍💻 All of my projects are available at soon// your site
-
+- 👨‍💻 All of my projects are available at soon /// Not Now
 - 💬 Ask me about **Java, PHP, Node.js,Software Design,Spring Boot,Java JUnit Test**
 
 - 📫 How to reach me tshorafa57@gmail.com
