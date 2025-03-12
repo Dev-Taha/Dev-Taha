@@ -17,7 +17,7 @@
 - 🌱 Currently learning **SOLID Principles** and improving my **System Design** skills.
 - 👯 Looking to collaborate on **Open Source Projects**.
 - 💬 Ask me about **Java, Spring Boot, Microservices, and Software Design**.
-- 📧 Reach me at **tshorafa57@gmail.com**.
+- 📧 Reach me at **tahayasseralshorafa@gmail.com**.
 - ⚡ Fun fact: **I'm a tech enthusiast 🤓**.
 
 ---
