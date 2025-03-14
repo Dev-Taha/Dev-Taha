@@ -32,10 +32,10 @@
 
 #### 🟤 Databases  
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://redis.com/wp-content/themes/wpx/assets/images/logo-redis.svg?auto=webp&quality=85,75&width=120" alt="Redis" width="50" height="50"/>
-  <img src="https://th.bing.com/th/id/R.202b73754731bf9cae390c5e38213ec1?rik=aPAp%2f8ElghwhCQ&pid=ImgRaw&r=0" alt="Oracle" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
+  <img src="https://redis.com/wp-content/themes/wpx/assets/images/logo-redis.svg?auto=webp&quality=85,75&width=120" alt="Redis" width="60" height="60"/>
+  <img src="https://th.bing.com/th/id/R.202b73754731bf9cae390c5e38213ec1?rik=aPAp%2f8ElghwhCQ&pid=ImgRaw&r=0" alt="Oracle" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="60" height="60"/>
 </p>
 
 #### 🚀 Tools & DevOps  
