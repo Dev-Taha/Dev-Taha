@@ -1,54 +1,72 @@
-<h1 align="center">👋 Hi, I'm Taha Al-Shurafa</h1>
-<h3 align="center">A Passionate Backend Developer | Java & Spring Boot Enthusiast</h3>
+<h1 align="center">👋 Hi, I'm <strong>Taha Al-Shurafa</strong></h1>
+<h3 align="center">Backend Developer | Java & Spring Boot Specialist | Open Source Enthusiast</h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/taha-al-shorafa-82676018a/">
-    <img src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=Connect" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/taha-al-shorafa-82676018a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Dev-Taha">
-    <img src="https://komarev.com/ghpvc/?username=Dev-Taha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/Dev-Taha" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=Dev-Taha&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  </a>
+  <a href="mailto:tahayasseralshorafa@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Reach%20Out-%23EA4335?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </div>
 
 ---
 
-### 🛠 About Me
-- 🔯 I’m currently working as a **Java Backend Developer** specializing in **Spring Boot**.
-- 🌱 Currently learning **SOLID Principles** and improving my **System Design** skills.
-- 👯 Looking to collaborate on **Open Source Projects**.
-- 💬 Ask me about **Java, Spring Boot, Microservices, and Software Design**.
-- 📧 Reach me at **tahayasseralshorafa@gmail.com**.
-- ⚡ Fun fact: **I'm a tech enthusiast 🤓**.
+### 🔥 **About Me**  
+- 💻 **Backend Developer** specializing in **Java, Spring Boot, and Microservices**.  
+- 📚 Currently mastering **SOLID Principles, System Design, and Cloud-Native Apps**.  
+- 🌍 Open to collaborating on **open-source projects** or innovative ideas.  
+- 🎯 Fun fact: I automate mundane tasks for fun!  
 
 ---
 
-### 🛠 Tech Stack  
-#### ⚙️ Languages & Frameworks  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <img src="https://th.bing.com/th/id/R.a2fba6cd8edbc0edb23b51490d3e45fe?rik=l9c%2bSeOGbtwFIQ&riu=http%3a%2f%2faddonwebsolutions.com%2fwp-content%2fuploads%2f2018%2f11%2fspring.png&ehk=6WT5U918hMOgjoimRUxQ%2bWtt5la9WkU6cfRVXHxAjo0%3d&risl=&pid=ImgRaw&r=0" alt="Spring Boot" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS" width="50" height="50"/>
+### 🛠 **Tech Stack**  
+
+#### **Languages & Frameworks**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
 </p>
 
-#### 🟤 Databases  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
-  <img src="https://redis.com/wp-content/themes/wpx/assets/images/logo-redis.svg?auto=webp&quality=85,75&width=120" alt="Redis" width="60" height="60"/>
-  <img src="https://th.bing.com/th/id/R.202b73754731bf9cae390c5e38213ec1?rik=aPAp%2f8ElghwhCQ&pid=ImgRaw&r=0" alt="Oracle" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="60" height="60"/>
+#### **Databases**  
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
 </p>
 
-#### 🚀 Tools & DevOps  
-<p>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
-  <img src="https://voncasa.de/wp-content/uploads/bb-plugin/cache/docker-circle.png" alt="Docker" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="60" height="60"/>
+#### **DevOps & Tools**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
 ---
 
-### 📞 Connect with Me  
-<a href="https://www.linkedin.com/in/taha-al-shorafa-82676018a" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Taha&show_icons=true&count_private=true&hide_border=false&theme=default&title_color=239a3b&icon_color=239a3b&text_color=495057" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Taha&layout=compact&hide_border=false&theme=default&title_color=239a3b&hide=c++,css,scss,html,kotlin,python&langs_count=4" alt="Top Languages" width="43%" />
+</p>
+
+---
+
+### 📫 **Let's Connect!**  
+<p align="center">
+  <a href="https://www.linkedin.com/in/taha-al-shorafa-82676018a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:tahayasseralshorafa@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/Dev-Taha" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
